@@ -1,45 +1,45 @@
-# LavaCactus Repository Template
+# Chicken Joe's official website
 
-Open source template for lavacactus projects on GitHub
+Source code. This website available on [chickenjoe.site](https://chickenjoe.site)
 
 <hr>
 
 #### Support
 [![Documentation](https://img.shields.io/badge/docs-0094FF.svg)][documentation_path]
-[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/libresource/lavacactus-repository-template/discussions/)
-[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/libresource/lavacactus-repository-template/issues/)
+[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/DanteOnline/website/discussions/)
+[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/DanteOnline/website/issues/)
 
 #### Languages
-[![Languages](https://img.shields.io/github/languages/count/libresource/lavacactus-repository-template)](https://github.com/libresource/lavacactus-repository-template)
-[![Top Language](https://img.shields.io/github/languages/top/libresource/lavacactus-repository-template)](https://github.com/libresource/lavacactus-repository-template)
+[![Languages](https://img.shields.io/github/languages/count/DanteOnline/website)](https://github.com/DanteOnline/website)
+[![Top Language](https://img.shields.io/github/languages/top/DanteOnline/website)](https://github.com/DanteOnline/website)
 
 #### Development
-[![Last Commit](https://img.shields.io/github/last-commit/libresource/lavacactus-repository-template/main
-)](https://github.com/libresource/lavacactus-repository-template)
-- [![Issues](https://img.shields.io/github/issues/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/issues/)
-[![Closed Issues](https://img.shields.io/github/issues-closed/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/issues/)
-- [![Pull Requests](https://img.shields.io/github/issues-pr/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/pulls)
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/pulls)
-- [![Discussions](https://img.shields.io/github/discussions/libresource/lavacactus-repository-template
-)](https://github.com/libresource/lavacactus-repository-template/discussions/)
+[![Last Commit](https://img.shields.io/github/last-commit/DanteOnline/website/main
+)](https://github.com/DanteOnline/website)
+- [![Issues](https://img.shields.io/github/issues/DanteOnline/website
+)](https://github.com/DanteOnline/website/issues/)
+[![Closed Issues](https://img.shields.io/github/issues-closed/DanteOnline/website
+)](https://github.com/DanteOnline/website/issues/)
+- [![Pull Requests](https://img.shields.io/github/issues-pr/DanteOnline/website
+)](https://github.com/DanteOnline/website/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/DanteOnline/website
+)](https://github.com/DanteOnline/website/pulls)
+- [![Discussions](https://img.shields.io/github/discussions/DanteOnline/website
+)](https://github.com/DanteOnline/website/discussions/)
 
 [//]: # (#### Repository Stats)
 
-[//]: # ([![Stars]&#40;https://img.shields.io/github/stars/libresource/lavacactus-repository-template)
+[//]: # ([![Stars]&#40;https://img.shields.io/github/stars/DanteOnline/website)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/lavacactus-repository-template&#41;)
+[//]: # (&#41;]&#40;https://github.com/DanteOnline/website&#41;)
 
-[//]: # ([![Contributors]&#40;https://img.shields.io/github/contributors/libresource/lavacactus-repository-template)
+[//]: # ([![Contributors]&#40;https://img.shields.io/github/contributors/DanteOnline/website)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/lavacactus-repository-templategraphs/contributors&#41;)
+[//]: # (&#41;]&#40;https://github.com/DanteOnline/websitegraphs/contributors&#41;)
 
-[//]: # ([![Forks]&#40;https://img.shields.io/github/forks/libresource/lavacactus-repository-template)
+[//]: # ([![Forks]&#40;https://img.shields.io/github/forks/DanteOnline/website)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/lavacactus-repository-template&#41;)
+[//]: # (&#41;]&#40;https://github.com/DanteOnline/website&#41;)
 
 <hr>
 
@@ -54,7 +54,7 @@ Open source template for lavacactus projects on GitHub
 
 ## Mission
 
-To provide quickstart with lavacactus projects on GitHub
+To Provide information about **Chicken Joe**
 
 ## Open Source Project
 
@@ -63,28 +63,10 @@ Be free to use, fork, clone and contribute.
 
 ## Features
 
-- Lavacactus projects structure and requirements
-- Makefile
-- This template base on [libresource/open-source-checklist](https://github.com/libresource/open-source-checklist). 
-It contains may useful files for open source project: ([CHECKLIST.md](CHECKLIST.md), [CONTRIBUTING.md](CONTRIBUTING.md), 
-[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and much more).
-
-## Install
-
-Just use this repository as GitHub repository template
-
-## Quickstart
-
-- Check [REAMDE.md](README.md) in the profile folder. It's your project readme
-- Delete or change [this](README.md) README.md
-- Check all useful files in the project
-- Use [CHECKLIST.md](CHECKLIST.md) to check all of you need for good open source project
-- Enjoy
-
-## Examples
-
-GitHub's repositories which use this template
-- [DanteOnline website](https://github.com/danteonline/website)
+- About Chicken Joe
+- Works and projects
+- Contacts
+- Useful links
 
 ## Contributing
 
@@ -95,13 +77,13 @@ You are welcome! To easy start please check:
 - [Governance](GOVERNANCE.md)
 - [Support](SUPPORT.md)
 
-[documentation_path]: https://github.com/libresource/lavacactus-repository-template
+[documentation_path]: https://github.com/DanteOnline/website
 
 ## Developer Documentation
 
 This site make with [LavaCactus](https://github.com/quillcraftsman/lavacactus)
 
-    git clone https://github.com/libresource/lavacactus-repository-template.git
+    git clone https://github.com/DanteOnline/website.git
     pip install -r requirements.txt
 
 Then use `cactus serve` to run development server.
